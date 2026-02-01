@@ -1,0 +1,17 @@
+"ID";"Bezeichner";"Footprint";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"Q6,Q5,Q8,Q15,Q12,Q10";"SOT-23";6;"BC547";;;
+2;"R19,R8,R7,R16,R24,R14,R5,R28";"C_0201_0603Metric";8;"100";;;
+3;"D3,D5,D4,D15,D1,D2,D6";"D_SMA";7;"SS34";;;
+4;"R27,R25,R15,R2,R21,R23,R29,R6,R18,R17,R4,R11";"C_0201_0603Metric";12;"100k";;;
+5;"R3";"C_0201_0603Metric";1;"10k";;;
+6;"R9,R20,R10,R13,R22,R26,R12,R30";"C_0201_0603Metric";8;"2k";;;
+7;"D9,D14,D10,D11,D12,D13";"D_SOD-523";6;"15V";;;
+8;"C2,C4,C5";"C_0201_0603Metric";3;"100nF";;;
+9;"Q3,Q13,Q7,Q2,Q11,Q9";"TO-252-3_TabPin2";6;"FQP27P06";;;
+10;"JP3,JP2";"SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm";2;"Jumper_2_Bridged";;;
+11;"Q1,Q4";"SOT-23";2;"IRLZ44N";;;
+12;"U1";"SOT-223-3_TabPin2";1;"LM7805_TO220";;;
+13;"U3";"SOIC-8_3.9x4.9mm_P1.27mm";1;"6N137";;;
+14;"R1";"C_0201_0603Metric";1;"1,3k";;;
+15;"JP1";"SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm";1;"Jumper_2_Open";;;
+16;"D8";"D_SMA";1;"D_TVS";;;
