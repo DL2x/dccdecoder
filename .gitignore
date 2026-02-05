@@ -1,0 +1,9 @@
+*.lck
+*cache
+*backup*
+*.zip
+*.g??
+*.drl
+.github
+.vscode
+LICENSE
