@@ -6190,6 +6190,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 139.7 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "15abfa98-aa20-424c-a872-81ecaf893718")
 		)
@@ -6213,9 +6222,9 @@
 		(at 53.34 95.25 90)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0557a470-8e12-4a26-95d4-b7a6db6b8e2c")
 		(property "Reference" "JP3"
 			(at 54.61 93.9799 90)
@@ -6255,6 +6264,15 @@
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
 			(at 53.34 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 148.59 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6333,6 +6351,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "861feeba-de87-41b3-823d-9f69a661d103")
 		)
@@ -6403,6 +6430,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 139.7 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a5cc216f-5d87-417e-97d6-7c944027e599")
 		)
@@ -6423,9 +6459,9 @@
 		(at 71.12 95.25 90)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2dee7b45-c26a-48ba-8320-501e6828b5b8")
 		(property "Reference" "JP2"
 			(at 72.39 93.9799 90)
@@ -6465,6 +6501,15 @@
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
 			(at 71.12 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 166.37 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6534,6 +6579,15 @@
 		)
 		(property "Description" "Polarized capacitor"
 			(at 205.74 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6677,6 +6731,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17604"
+			(at 0 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7a814b40-282e-4319-ae4c-f823a1dcf915")
 		)
@@ -6738,6 +6801,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 96.52 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17604"
+			(at -1.27 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6815,6 +6887,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C29936"
+			(at 421.64 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c1e6003-e6bd-47ed-a352-5654adfe38cd")
 		)
@@ -6878,6 +6959,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 46.99 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 93.98 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7019,6 +7109,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C29936"
+			(at 260.35 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "995d9101-3c3e-45f3-8354-95311cd2c242")
 		)
@@ -7085,6 +7184,15 @@
 		)
 		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 63.5 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 127 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7165,6 +7273,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 157.48 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a9adcc62-b143-4cf9-a4aa-eb5cd26e54d7")
 		)
@@ -7199,7 +7316,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BZT52C15"
+		(property "Value" "BZT585B15T-7"
 			(at 83.82 82.5499 90)
 			(effects
 				(font
@@ -7235,6 +7352,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C571376"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83c974c6-ce76-4b84-af00-29f0f82edbb1")
 		)
@@ -7256,9 +7382,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "62b2eb3b-1bd5-4569-8d73-cb0d74989f1f")
 		(property "Reference" "U3"
 			(at 179.8635 71.12 0)
@@ -7298,6 +7424,15 @@
 		)
 		(property "Description" "Single High Speed LSTTL/TTL Compatible Optocoupler with enable, dV/dt 1000/us, VCM 10, max 7V VCC, DIP-8"
 			(at 182.88 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 365.76 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7395,6 +7530,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4a468f34-118a-492f-b1e0-6f0250bcb705")
 		)
@@ -7432,7 +7576,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BZT52C15"
+		(property "Value" "BZT585B15T-7"
 			(at 45.72 82.5499 90)
 			(effects
 				(font
@@ -7461,6 +7605,15 @@
 		)
 		(property "Description" "Zener diode"
 			(at 43.18 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C571376"
+			(at -38.1 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7529,6 +7682,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 196.85 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17384"
+			(at 278.13 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7606,6 +7768,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "17414"
+			(at 0 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e0e31069-4300-4f95-b6e2-d70471c3c3a2")
 		)
@@ -7667,6 +7838,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 123.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7737,6 +7917,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
 			(at 265.43 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7830,9 +8019,9 @@
 		(at 73.66 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7accbf46-da27-42c8-ba3f-c30fda8ead5e")
 		(property "Reference" "Q2"
 			(at 67.31 86.3601 0)
@@ -7843,7 +8032,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FQP27P06"
+		(property "Value" "ROHM RD3L08BBJHRBTL"
 			(at 67.31 83.8201 0)
 			(effects
 				(font
@@ -7875,6 +8064,15 @@
 		)
 		(property "Description" "-27A Id, -60V Vds, QFET P-Channel MOSFET, TO-220"
 			(at 73.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 147.32 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7953,6 +8151,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8678"
+			(at 0 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74ae576c-9034-4cf8-a7d4-15f8a4b878e9")
 		)
@@ -8021,6 +8228,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8678"
+			(at 0 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d1a65e9f-e99d-4661-ba0c-a5c8c12010c9")
 		)
@@ -8055,7 +8271,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SMBJ24CA"
+		(property "Value" "SMAJ24CA"
 			(at 90.17 83.8199 90)
 			(effects
 				(font
@@ -8084,6 +8300,15 @@
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode"
 			(at 87.63 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C151919"
+			(at 170.18 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8160,6 +8385,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "faf64c13-e662-4d98-bbd9-2bc66a25a6ff")
 		)
@@ -8222,6 +8456,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
 			(at 72.39 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8299,6 +8542,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ece16d6-6b66-4177-8377-fc0c674d7883")
 		)
@@ -8363,6 +8615,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 62.23 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 167.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8442,6 +8703,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "807a57a5-59fd-4d15-9dba-3ef564047473")
 		)
@@ -8504,6 +8774,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 27.94 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17604"
+			(at 125.73 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8645,6 +8924,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17408"
+			(at 224.79 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "738a9af4-4bd5-49f4-8173-9fa4a08a510a")
 		)
@@ -8706,6 +8994,15 @@
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
 			(at 256.54 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8678"
+			(at 0 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8786,6 +9083,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 167.64 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "8a55e8a0-6724-43d7-b14b-76ba68ae595e")
 		)
@@ -8850,6 +9156,15 @@
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
 			(at 227.33 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8678"
+			(at 0 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8928,6 +9243,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 91.44 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a7993347-9555-488b-bd8a-4826abe73ed2")
 		)
@@ -8989,6 +9313,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 45.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 93.98 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9066,6 +9399,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17408"
+			(at 162.56 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e307db5f-8846-4b53-ba2d-0dd37837dd63")
 		)
@@ -9127,6 +9469,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 52.07 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 195.58 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9200,6 +9551,15 @@
 		)
 		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 73.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 147.32 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9283,6 +9643,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 68.58 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d229030d-3084-4cfe-85e4-c12952de206b")
 		)
@@ -9349,6 +9718,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 40.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 81.28 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9426,6 +9804,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 152.4 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a08e044-4445-4636-8b93-2d163cd158f9")
 		)
@@ -9488,6 +9875,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 27.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at -77.47 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9563,6 +9959,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C8678"
+			(at 0 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "75c722e1-366f-4fad-aacd-d67277709753")
 		)
@@ -9631,6 +10036,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17408"
+			(at 201.93 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0bd10fd7-3c65-435b-9615-613cf1d72132")
 		)
@@ -9652,9 +10066,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d9352393-a7af-4ee4-8420-64bd3c4b1083")
 		(property "Reference" "Q3"
 			(at 56.388 86.36 0)
@@ -9665,7 +10079,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FQP27P06"
+		(property "Value" "ROHM RD3L08BBJHRBTL"
 			(at 57.15 83.8201 0)
 			(effects
 				(font
@@ -9697,6 +10111,15 @@
 		)
 		(property "Description" "-27A Id, -60V Vds, QFET P-Channel MOSFET, TO-220"
 			(at 50.8 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9776,6 +10199,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C6187"
+			(at 0 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47c0761e-fbae-4f64-9bc4-6e5737bd38db")
 		)
@@ -9799,9 +10231,9 @@
 		(at 162.56 53.34 0)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dc6c01c5-3488-40ae-b8cb-0a65cf713298")
 		(property "Reference" "JP1"
@@ -9840,6 +10272,15 @@
 		)
 		(property "Description" "Jumper, 2-pole, open"
 			(at 162.56 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9918,6 +10359,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17408"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a01235e-9535-454d-aa0f-29558a7f21e0")
 		)
@@ -9981,6 +10431,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 248.92 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10061,6 +10520,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 157.48 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63439f37-458b-4c2a-b5c7-541cd4343d5a")
 		)
@@ -10122,6 +10590,15 @@
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
 			(at 256.54 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8678"
+			(at 0 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10198,6 +10675,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1c74a485-1dd5-4dd5-9fc2-6bba965d6b02")
 		)
@@ -10264,6 +10750,15 @@
 		)
 		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 40.64 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 81.28 287.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10346,6 +10841,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "3dc4a848-c1df-4139-9a31-ec4731e1bfbc")
 		)
@@ -10411,6 +10915,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 173.99 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C29936"
+			(at 347.98 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10489,6 +11002,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17604"
+			(at 182.88 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c3fcdb4c-8160-4753-8a21-d937b90537de")
 		)
@@ -10550,6 +11072,15 @@
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
 			(at 227.33 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8678"
+			(at 0 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10620,6 +11151,15 @@
 		)
 		(property "Description" "Arduino Nano v3.x"
 			(at 148.59 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
