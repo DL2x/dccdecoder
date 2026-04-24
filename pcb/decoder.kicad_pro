@@ -508,7 +508,7 @@
     "netclass_patterns": [
       {
         "netclass": "POWER",
-        "pattern": "GND|VM|VCC|Motor|AC|Lamp|"
+        "pattern": "/GND|/VM|/VCC|/Motor|/AC|/Lamp|/5V|"
       }
     ]
   },
